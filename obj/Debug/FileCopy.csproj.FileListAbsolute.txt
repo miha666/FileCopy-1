@@ -1,0 +1,7 @@
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\obj\Debug\FileCopy.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+C:\Users\Михаил\source\repos\Test\FileCopy\FileCopy\obj\Debug\FileCopy.pdb
